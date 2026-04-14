@@ -1,0 +1,20 @@
+# Data files (too large / re-downloadable)
+data/*.csv
+data/*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
