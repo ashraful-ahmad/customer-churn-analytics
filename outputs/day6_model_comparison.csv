@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Naive Baseline,0.7346,0.0,0.0,0.0,0.5
+Logistic Regression,0.7424,0.5096,0.7781,0.6159,0.8389
+Decision Tree,0.7566,0.5285,0.7674,0.626,0.8331
