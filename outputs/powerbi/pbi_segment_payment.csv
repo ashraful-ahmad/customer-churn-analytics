@@ -1,0 +1,5 @@
+PaymentMethod,Customers,Churned,Avg_Monthly_Charge,Total_Monthly_Rev,Avg_Tenure,Retained,Churn_Rate_Pct
+Electronic check,2365,1071,76.26,180345.0,25.2,1294,45.29
+Mailed check,1612,308,43.92,70794.3,21.8,1304,19.11
+Bank transfer (automatic),1544,258,67.19,103745.45,43.7,1286,16.71
+Credit card (automatic),1522,232,66.51,101231.85,43.3,1290,15.24

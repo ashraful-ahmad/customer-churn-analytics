@@ -1,0 +1,4 @@
+Risk_Tier,Customers,Actual_Churned,Avg_Prob,Actual_Churn_Rate_Pct
+High Risk,338,211,0.8221,62.43
+Medium Risk,321,104,0.5587,32.4
+Low Risk,750,59,0.1409,7.87

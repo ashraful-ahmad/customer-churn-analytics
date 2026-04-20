@@ -1,0 +1,13 @@
+Service,Subscribed,Customers,Churned,Churn_Rate_Pct,Avg_Monthly
+OnlineSecurity,Yes,2019,295,14.61,78.84
+OnlineSecurity,No,3498,1461,41.77,75.69
+OnlineBackup,Yes,2429,523,21.53,83.08
+OnlineBackup,No,3088,1233,39.93,71.94
+DeviceProtection,Yes,2422,545,22.5,84.82
+DeviceProtection,No,3095,1211,39.13,70.6
+TechSupport,Yes,2044,310,15.17,80.68
+TechSupport,No,3473,1446,41.64,74.59
+StreamingTV,Yes,2707,814,30.07,88.74
+StreamingTV,No,2810,942,33.52,65.39
+StreamingMovies,Yes,2732,818,29.94,88.48
+StreamingMovies,No,2785,938,33.68,65.43

@@ -1,0 +1,10 @@
+Contract,InternetService,Churned_Customers,Monthly_Rev_Lost,Avg_Monthly_Lost,Avg_Tenure
+Month-to-month,Fiber optic,1162,100482.0,86.47,16.3
+Month-to-month,DSL,394,18367.25,46.62,9.6
+One year,Fiber optic,104,10571.95,101.65,51.4
+One year,DSL,53,3356.25,63.33,35.8
+Two year,Fiber optic,31,3246.1,104.71,62.5
+Month-to-month,No,99,1997.85,20.18,4.9
+Two year,DSL,12,805.7,67.14,64.8
+One year,No,9,190.25,21.14,24.6
+Two year,No,5,113.5,22.7,45.2

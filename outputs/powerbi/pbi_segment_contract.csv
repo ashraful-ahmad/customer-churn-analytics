@@ -1,0 +1,4 @@
+Contract,Customers,Churned,Avg_Monthly_Charge,Total_Monthly_Rev,Avg_Tenure,Retained,Churn_Rate_Pct
+Month-to-month,3875,1655,66.4,257294.15,18.0,2220,42.71
+One year,1473,166,65.05,95816.6,42.0,1307,11.27
+Two year,1695,48,60.77,103005.85,56.7,1647,2.83

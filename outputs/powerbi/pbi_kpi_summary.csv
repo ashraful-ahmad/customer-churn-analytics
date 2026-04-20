@@ -1,0 +1,15 @@
+KPI,Value
+Total Customers,7043.0
+Total Churned,1869.0
+Total Retained,5174.0
+Churn Rate (%),26.54
+Retention Rate (%),73.46
+Total Monthly Revenue ($),456116.6
+Monthly Revenue at Risk ($),139130.85
+Revenue at Risk (%),30.5
+Avg Tenure - Churned (months),18.0
+Avg Tenure - Retained (months),37.6
+Avg Monthly Charge - Churned ($),74.44
+Avg Monthly Charge - Retained ($),61.27
+Senior Citizen Churn Rate (%),41.68
+Month-to-Month Churn Rate (%),42.71
