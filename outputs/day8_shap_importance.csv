@@ -1,0 +1,40 @@
+Feature,Mean |SHAP|
+Contract_Month-to-month,0.76670974
+tenure,0.54866874
+MonthlyCharges,0.28377888
+OnlineSecurity_No,0.25743484
+InternetService_Fiber optic,0.1865185
+TechSupport_No,0.17494006
+PaymentMethod_Electronic check,0.17033872
+Contract_Two year,0.13833795
+MultipleLines_No,0.12824582
+PaperlessBilling,0.11942378
+Contract_One year,0.10160439
+OnlineBackup_No,0.071386226
+SeniorCitizen,0.052140683
+Dependents,0.048384137
+StreamingMovies_Yes,0.046884216
+StreamingTV_Yes,0.045153625
+InternetService_DSL,0.036754236
+PaymentMethod_Mailed check,0.027983515
+PaymentMethod_Credit card (automatic),0.027356293
+gender,0.025623696
+PaymentMethod_Bank transfer (automatic),0.023189377
+StreamingTV_No,0.023144139
+StreamingMovies_No,0.019558875
+num_addons,0.016660733
+OnlineBackup_Yes,0.01440572
+TechSupport_Yes,0.009143883
+DeviceProtection_Yes,0.0084090335
+Partner,0.007100578
+DeviceProtection_No,0.00527856
+MultipleLines_Yes,0.002483046
+high_value,0.0020600066
+OnlineSecurity_Yes,0.0013868959
+TechSupport_No internet service,0.0
+OnlineBackup_No internet service,0.0
+OnlineSecurity_No internet service,0.0
+InternetService_No,0.0
+DeviceProtection_No internet service,0.0
+tenure_bucket,0.0
+mtm_contract,0.0

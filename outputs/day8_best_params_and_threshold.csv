@@ -1,0 +1,6 @@
+RF_best_params,"{'class_weight': 'balanced', 'max_depth': 10, 'max_features': 'log2', 'min_samples_leaf': 10, 'n_estimators': 100}"
+XGB_best_params,"{'colsample_bytree': 1.0, 'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 200, 'subsample': 1.0}"
+RF_best_CV_F1,0.632590598807355
+XGB_best_CV_F1,0.6385582447070675
+final_model,XGBoost
+optimal_threshold,0.48999999999999977
