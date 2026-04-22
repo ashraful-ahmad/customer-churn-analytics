@@ -2,6 +2,12 @@
 
 End-to-end data analytics project using the Telco Customer Churn dataset.
 
+## 🚀 Live Demo
+    **Streamlit App:** [Customer Churn Risk Predictor](https://ashraful-ahmad-customer-churn-analytics-app-teynln.streamlit.app/)
+
+    > Real-time churn prediction with SHAP explainability.
+    > Enter any customer profile → instant risk score + actionable insights.
+
 ## Project Structure
 - `/notebooks` — daily Jupyter notebooks
 - `/data`      — raw data (not tracked by Git — see below)
